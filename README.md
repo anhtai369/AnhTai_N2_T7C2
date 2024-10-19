@@ -1,14 +1,14 @@
-# Chào Mừng Đến Với Trang GitHub Của Tôi!
+![image](https://github.com/user-attachments/assets/49a723dc-e767-47da-8683-8849cdf9be58)# Chào Mừng Đến Với Trang GitHub Của Tôi! 👋
 
 ## Giới Thiệu
 
-Xin chào! Tôi là [Anh Tài]
+Xin chào! Tôi là Anh Tài
 ## Kỹ Năng
 
-- **Ngôn ngữ lập trình:** [C#, Java]
-- **Frameworks:** [ASP.NET]
-- **Cơ sở dữ liệu:** [SQL Server, MySQL]
-- **Công cụ:** [Git, Visual Studio]
+- **Ngôn ngữ lập trình:** C#, Java
+- **Frameworks:** ASP.NET
+- **Cơ sở dữ liệu:** SQL Server, MySQL
+- **Công cụ:** Git, Visual Studio
 
 ## Học Vấn
 
@@ -18,7 +18,8 @@ Xin chào! Tôi là [Anh Tài]
 
 Nếu bạn muốn kết nối với tôi, đừng ngần ngại liên hệ qua:
 
-- Email: tai745414@gmail.com
+- ![image](https://github.com/user-attachments/assets/1c175e32-6634-4e24-b68c-777b6876926c)
+: tai745414@gmail.com
 
 
 ## Cảm Ơn
