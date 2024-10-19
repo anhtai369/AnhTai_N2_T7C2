@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/49a723dc-e767-47da-8683-8849cdf9be58)# Chào Mừng Đến Với Trang GitHub Của Tôi! 👋
+# Chào Mừng Đến Với Trang GitHub Của Tôi! 👋
 
 ## Giới Thiệu
 
