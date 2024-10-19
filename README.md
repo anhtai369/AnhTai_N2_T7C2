@@ -1,6 +1,6 @@
 # Chào Mừng Đến Với Trang GitHub Của Tôi! 👋
 
-## Giới Thiệu
+## Giới Thiệu 🕵️
 
 Xin chào! Tôi là Anh Tài
 ## Kỹ Năng
@@ -12,7 +12,7 @@ Xin chào! Tôi là Anh Tài
 
 ## Học Vấn
 
-- [Trường Đại học: Ngoại Ngữ Tin Học - HUFLIT]
+- Trường Đại học: Ngoại Ngữ Tin Học - HUFLIT
 
 ## Liên Hệ
 
