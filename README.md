@@ -18,8 +18,7 @@ Xin chào! Tôi là Anh Tài
 
 Nếu bạn muốn kết nối với tôi, đừng ngần ngại liên hệ qua:
 
-- ![image](https://github.com/user-attachments/assets/1c175e32-6634-4e24-b68c-777b6876926c)
-: tai745414@gmail.com
+- Email: tai745414@gmail.com
 
 
 ## Cảm Ơn
