@@ -10,11 +10,11 @@ Xin chào! Tôi là Anh Tài
 - **Cơ sở dữ liệu:** SQL Server, MySQL
 - **Công cụ:** Git, Visual Studio
 
-## Học Vấn
+## Học Vấn 
 
 - Trường Đại học: Ngoại Ngữ Tin Học - HUFLIT
 
-## Liên Hệ
+## Liên Hệ 📞
 
 Nếu bạn muốn kết nối với tôi, đừng ngần ngại liên hệ qua:
 
