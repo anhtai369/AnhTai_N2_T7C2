@@ -2,7 +2,7 @@
 
 ## Giới Thiệu 🕵️
 
-Xin chào! Tôi là Anh Tài
+Xin chào! Tôi là Anh Tài, một lập trình viên đam mê công nghệ và phát triển phần mềm. Tôi chuyên làm việc với các ngôn ngữ lập trình như C# và Java, và có kinh nghiệm trong việc phát triển ứng dụng web bằng ASP.NET.
 
 # Dự Án Bán Giày Online 👟
 
